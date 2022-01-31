@@ -51,31 +51,21 @@ router.post('/', async (req, res) => {
   //  try {
   //       const productData = await Product.create ({
         
-          // product_name: "Basketball",
-          // price: 200.00,
-          // stock: 3,
+  //         product_name: "Basketball",
+  //         price: 200.00,
+  //         stock: 3,
           // tagIds: [1, 2, 3, 4]
           
   //       });
       
-  //       res.status(200).json(productData);
-  //     } catch (err) {
-  //       res.status(400).json(err); 
-  //       console.log(req.params);
-  //     }
-  Product.create(req.body, {
-  // const productData = await Product.create ({
-    
-    where: {
-      product_name: req.body.product_name,
-      price: req.body.price,
-      stock: req.body.stock,
-      tagIds: req.body.tagIds
-    },
-    
-  // })
-  })
+        // res.status(200).json(productData);
+      // } catch (err) {
+      //   res.status(400).json(err); 
+      //   console.log(req.params);
+      // }
+  Product.create(req.body)
     .then((product) => {
+  console.log(product);
    
       // if there's product tags, we need to create pairings to bulk create in the ProductTag model
       if (req.body.tagIds.length) {
