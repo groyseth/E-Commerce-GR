@@ -48,21 +48,7 @@ router.post('/', async (req, res) => {
       tagIds: [1, 2, 3, 4]
     }
   */
-  //  try {
-  //       const productData = await Product.create ({
-        
-  //         product_name: "Basketball",
-  //         price: 200.00,
-  //         stock: 3,
-          // tagIds: [1, 2, 3, 4]
-          
-  //       });
-      
-        // res.status(200).json(productData);
-      // } catch (err) {
-      //   res.status(400).json(err); 
-      //   console.log(req.params);
-      // }
+
   Product.create(req.body)
     .then((product) => {
   console.log(product);
