@@ -1,10 +1,11 @@
+
 # E-Commerce Project
     
 ## Badges  
   ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
   
 ## Description  
-
+![Untitled_ Feb 1, 2022 9_45 PM (2)](https://user-images.githubusercontent.com/90479839/152091464-0bbff848-1b68-4091-9b2f-973116f7b703.gif)
 
 [Video Link](https://watch.screencastify.com/v/W9QsfXLdsuXeqIUCxWmw)
 
