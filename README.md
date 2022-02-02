@@ -7,7 +7,7 @@
 ## Description  
 ![Untitled_ Feb 1, 2022 9_45 PM (2)](https://user-images.githubusercontent.com/90479839/152091464-0bbff848-1b68-4091-9b2f-973116f7b703.gif)
 
-[Video Link](https://watch.screencastify.com/v/W9QsfXLdsuXeqIUCxWmw)
+[Video Link](https://watch.screencastify.com/v/MXNFld0afgvBvzZ4RDk0)
 
 
 This e-commerce project you will be able to add, delete and update into pre-existing tables using 'mysql2'. This project is easy to run in insomnia if you follow the video instructions.
