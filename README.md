@@ -1,5 +1,3 @@
-![Untitled_ Feb 1, 2022 10_30 PM](https://user-images.githubusercontent.com/90479839/152093595-55719221-a136-4588-99b3-66514cd403ab.gif)
-
 # E-Commerce Project
     
 ## Badges  
