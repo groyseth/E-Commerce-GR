@@ -9,7 +9,7 @@ const ProductTag = require('./ProductTag');
 
 Category.hasMany(Product, {
   foreignKey: 'category_id',
-  
+  onDelete: "CASCADE"
 });
 
 Product.belongsTo(Category, {
