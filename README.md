@@ -1,3 +1,4 @@
+![Untitled_ Feb 1, 2022 10_30 PM](https://user-images.githubusercontent.com/90479839/152093595-55719221-a136-4588-99b3-66514cd403ab.gif)
 
 # E-Commerce Project
     
@@ -5,9 +6,9 @@
   ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
   
 ## Description  
-![Untitled_ Feb 1, 2022 9_45 PM (2)](https://user-images.githubusercontent.com/90479839/152091464-0bbff848-1b68-4091-9b2f-973116f7b703.gif)
+![Untitled_ Feb 1, 2022 10_30 PM](https://user-images.githubusercontent.com/90479839/152093595-55719221-a136-4588-99b3-66514cd403ab.gif)
 
-[Video Link](https://watch.screencastify.com/v/MXNFld0afgvBvzZ4RDk0)
+[Video Link](https://watch.screencastify.com/v/jbDFdhhvEYZTDywi538x)
 
 
 This e-commerce project you will be able to add, delete and update into pre-existing tables using 'mysql2'. This project is easy to run in insomnia if you follow the video instructions.
